@@ -15,11 +15,12 @@
 
 .main-list-item {
   width: 300px;
+
+  &:not(:last-child) {
+    margin-right: 30px;
+  }
 }
 
-.main-list-item:not(:last-child) {
-  margin-right: 30px;
-}
 .main-text {
   font-size: 14px;
   line-height: 1.71;
