@@ -3,12 +3,10 @@
   display: flex;
   align-items: center;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
 
-&:hover .icon,
-&:focus .icon,
-&:hover,
-&:focus {
-  color: var(--accent-color);
-  fill: var(--accent-color);
+  &:hover,
+  &:focus {
+    color: var(--accent-color);
+    fill: var(--accent-color);
+  }
 }
