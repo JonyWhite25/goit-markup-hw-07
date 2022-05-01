@@ -58,7 +58,7 @@ img {
   margin-right: auto;
 }
 
-.main-btn {
+.hero__btn {
   padding: 10px 32px;
   font-size: 16px;
   font-weight: 700;
@@ -72,7 +72,7 @@ img {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.main-btn:hover, .main-btn:focus {
+.hero__btn:hover, .hero__btn:focus {
   background-color: #188ce8;
   cursor: pointer;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -257,7 +257,7 @@ img {
   position: relative;
 }
 
-.contacts {
+.contacts__header {
   margin-left: auto;
 }
 
@@ -300,7 +300,7 @@ img {
   margin-right: auto;
 }
 
-.title-hero {
+.title__hero {
   margin-bottom: 30px;
   font-size: 44px;
   font-weight: 900;
