@@ -257,7 +257,7 @@ img {
   position: relative;
 }
 
-.contacts__header {
+.contacts {
   margin-left: auto;
 }
 
@@ -284,7 +284,7 @@ img {
   fill: var(--accent-color);
 }
 
-.logo_studio-header_dark {
+.logo_studio-header {
   color: var(--header-text-color);
 }
 
@@ -300,7 +300,7 @@ img {
   margin-right: auto;
 }
 
-.title__hero {
+.hero__title {
   margin-bottom: 30px;
   font-size: 44px;
   font-weight: 900;
